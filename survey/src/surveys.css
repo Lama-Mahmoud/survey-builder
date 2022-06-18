@@ -1,0 +1,35 @@
+.card{
+    border-radius: 8px;
+    border:0.5px solid #8BB8D9;
+    color:#0465AC;
+    font-size: 35px;
+    width: 24%;
+    margin:4.5%;
+    align-content: center;
+}
+
+.card:hover{
+    background-color: #eeeeee;
+}
+
+.Button{
+    background-color: #8BB8D9;
+    border-radius: 8px;
+    border:none;
+    width:50%;
+    font-size: 15px;
+    color: white;
+    margin: 5%;
+    padding:2%;
+    border:0.5px solid #8BB8D9;
+}
+
+.Button:hover{
+    background-color: #b1d9f5;
+}
+
+.cards{
+    margin: 3.5%;
+    display: flex;
+    flex-wrap: wrap;
+}
