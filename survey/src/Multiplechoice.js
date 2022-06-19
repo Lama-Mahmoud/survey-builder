@@ -17,7 +17,7 @@ const Mcq = (props) => {
 
     return ( <div>
 
-        <div align="left" class="ans">
+        <div align="left" className="ans">
             <h3>Question is here...........</h3>
 
         
