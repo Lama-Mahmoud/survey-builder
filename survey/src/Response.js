@@ -2,6 +2,7 @@ import './Response.css';
 import React from 'react';
 import './shortans.css';
 import Shortans from './Shortans';
+import Mcq from './Multiplechoice';
 
 const Response = (props) => {
     
@@ -12,7 +13,10 @@ const Response = (props) => {
             </div>
             <Shortans/>
             <hr/>
+            <Mcq />
+            <hr/>
             <button className='Button'><b>Submit</b></button>
+
         </div>
      );
 }
