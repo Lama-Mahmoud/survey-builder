@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Surveys from './Surveys';
+import Response from './Response';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Surveys/>
+    <Response/>
   </React.StrictMode>
 );
 

@@ -1,0 +1,27 @@
+.survey{
+    margin: 10%;
+    margin-top: 5%;
+    padding:2%;
+    border:0.5px solid #8BB8D9;
+    border-radius: 8px;
+    color:#0465AC;
+
+}
+
+
+.Button{
+    background-color: #8BB8D9;
+    border-radius: 8px;
+    border:none;
+    width:100%;
+    font-size: 25px;
+    box-shadow: 0 10px 10px 0 #e1ebf3;
+    color: white;
+    margin-top: 15px;
+    padding:2%;
+    border:0.5px solid #8BB8D9;
+}
+
+.Button:hover{
+    background-color: #b1d9f5;
+}
